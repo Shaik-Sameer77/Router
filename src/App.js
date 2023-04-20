@@ -1,7 +1,7 @@
 import './App.css';
-import ReactLogo from './Reactlogo/reactlogo'
-import Button from './Button/buttton';
-import ReactBenefits from './ReactBenifits/Benifits'
+import ReactLogo from './reactlogo'
+import Button from './buttton';
+import ReactBenefits from './Benifits'
 
 
 function App() {
